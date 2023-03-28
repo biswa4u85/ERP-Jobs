@@ -12,6 +12,12 @@ token: 'token [key]:[value]',
 
 In the project directory, you can run:
 
-### `npm i`
+npm i
 
-### `npm build`
+npm build
+
+### `Copy Pest File`
+
+in upload folder
+
+copy all files, and pest in ERP
