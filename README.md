@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Change Config 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+in, src/common/config.js
+Change these values
+apiURL: ' ',
+token: 'token [key]:[value]',
 
-## Available Scripts
+## Make Build
 
 In the project directory, you can run:
 
